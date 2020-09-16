@@ -35,4 +35,4 @@ I'm learning a lot, learning fast. I would like to find my first job. I think th
 Studying in the Belarusian State University of Informatics and Radioelectronics.
 
 8. ## English: 
-According to the Epam training.by and other English tests. My English level is about B1
+According to the Epam training.by and other English tests. My English level is about B1. I often practise my English.
