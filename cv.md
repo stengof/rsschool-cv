@@ -8,7 +8,7 @@ Nikita Petrovets
 @Shpepst (Telegram)
 
 3. ## Summary: 
-I'm learning a lot, learning fast. I would like to find my first job. I think that *RS School* provides good opportunities to start a career. I strive to be better, would like to grow as a professional. I don't rely on others, I rely only on myself. Furthermore, I like to learn something new.
+I'm learning a lot, learning fast. I would like to find my first job. I think that *RS School* provides good opportunities to start a career. I strive to be better, would like to grow as a professional. I don't rely on others, I rely only on myself.
 
 4. ## Skills: 
     - HTML 
