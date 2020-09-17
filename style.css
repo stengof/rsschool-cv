@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica, Arial, Sans-Serif;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.avatar {
+  width: 100px;
+  border-radius: 50%;
+}
