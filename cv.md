@@ -1,38 +1,64 @@
 # Resume of Junior Javascript/Front-end developer
 
 
-1. ## First Name, Last Name: 
+1. ### First Name, Last Name 
 Nikita Petrovets
 
-2. ## Contact Info: 
-@Shpepst (Telegram)
+2. ### Contact Info 
+@Shpapis (Telegram)
+lmikon007@gmail.com (Email)
 
-3. ## Summary: 
-I'm learning a lot, learning fast. I would like to find my first job. I think that *RS School* provides good opportunities to start a career. I strive to be better, would like to grow as a professional. I don't rely on others, I rely only on myself.
+3. ### Summary 
+I would like to apply for position of Junior Frontend developer
+Familiar with JavaScript, React, Redux, Webpack
+I have been working with JS for 1 year.
+Have made lots of study projects and published on github.
+Would like to grow and develop in the sphere
 
-4. ## Skills: 
+4. ### Skills
     - HTML 
     - CSS 
     - JS 
     - Git 
+    - React 
+    - Redux
+    - NPM / Node.js 
     And others...
 
- 5. ## Code:
-	#### My CodeWars account:
-    [CodeWars](https://www.codewars.com/users/stengof)
+5. ### Code
 
-	#### My GitHub account:
-    [GitHub Account](https://github.com/stengof)
-		
-6. ## Experience:
+      [CodeWars account](https://www.codewars.com/users/stengof)
+      [GitHub Account](https://github.com/stengof)
 
-	- [singolo](https://github.com/stengof/singolo)
-	- [medoviy-dom](https://github.com/stengof/medoviy-dom)
-	- [virtual-keyboard](https://github.com/stengof/virtual-keyboard/)
-	- [travler](https://github.com/stengof/travler)
+6. ## Projects
+   ###### (deploy link inside each repository)
+    ##### Plain markup / HTML & CSS code:
+     1. [singolo](https://github.com/stengof/singolo)
+     2. [medoviy-dom](https://github.com/stengof/medoviy-dom)
+     3. [travler](https://github.com/stengof/travler)
+     4. [shelter](https://github.com/stengof/shelter)
+     5. [gta-boost](https://github.com/stengof/gta-boost)
+     6. [webdev](https://github.com/stengof/webdev)
 
-7. ## Education: 
-Studying in the Belarusian State University of Informatics and Radioelectronics.
+   ##### Vanilla JavaScript:
+     1. [english-for-kids](https://github.com/stengof/english-for-kids)
+     2. [virtual-keyboard-2](https://github.com/stengof/virtual-keyboard-2/)
+     3. [gem-puzzle](https://github.com/stengof/gem-puzzle)
+     4. [momentum](https://github.com/stengof/momentum)
+     5. [calculator](https://github.com/stengof/calculator)
+     6. [virtual-keyboard](https://github.com/stengof/virtual-keyboard/)
+     7. [covid-dashboard](https://github.com/stengof/covid-dashboard) (API is dead)
+  #### React
 
-8. ## English: 
-According to the Epam training.by and other English tests. My English level is about B1. I often practise my English.
+  - [tic-tac-toe-game](https://github.com/stengof/tick-tack-toe-react)
+
+  #### React + Redux + Formik + Material UI
+
+  - [social-network](https://github.com/stengof/social-network) 
+
+7. ### Education: 
+2015 - 2019 Minsk radioengineering college
+2019 - 2022 Belarusian State University of Informatics and Radioelectronics.
+
+8. ### English: 
+My English level is about B1 - B2
