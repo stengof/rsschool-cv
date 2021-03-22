@@ -1,1 +1,1 @@
-https://stengof.github.io/rsschool-cv/
+https://stengof.github.io/cv-resume
